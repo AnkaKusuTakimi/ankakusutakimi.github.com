@@ -23,7 +23,7 @@ description: ""
 author     : "" 
 logo:     #optional, defaults to site title
   path: /assets/logo.png
-  height: 120 #height in px, defaults to 52px
+  height: 100 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
