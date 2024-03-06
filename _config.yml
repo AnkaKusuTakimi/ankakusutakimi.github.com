@@ -22,8 +22,8 @@ email      : ankakusu.sobiyet@gmail.com #this is also the email contact forms wi
 description: ""
 author     : "" 
 logo:     #optional, defaults to site title
-  path: /assets/logo.png
-  height: 100 #height in px, defaults to 52px
+  path: /assets/logo2.png
+  height: 180 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
