@@ -305,4 +305,4 @@ tr: &DEFAULT_TR
     legal: "Gizlilik Politikası"
     social:
       - url: https://twitter.com
-        icon: "fab fa-twitter
+        icon: "fab fa-twitter"
