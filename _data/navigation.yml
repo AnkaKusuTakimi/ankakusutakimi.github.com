@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Our Projects"
-      section: services
+   # - title: "Our Projects"
+     # section: services
     - title: "Portfolio"
       section: portfolio
     - title: "About"
@@ -37,8 +37,8 @@ en-AU:
 # ----------------
 tr: &DEFAULT_TR
   nav:
-    - title: "Projelerimiz"
-      section: services
+   # - title: "Projelerimiz"
+     # section: services
     - title: "Portföy"
       section: portfolio
     - title: "Hakkımızda"
