@@ -16,20 +16,20 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
-  services:
-    title: "Our Projects"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Günebakan Houses"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+  # services:
+   # title: "Our Projects"
+   # text: "Lorem ipsum"
+   # section: services
+   # list:
+     # - title: "E-Commerce"
+     #   desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+     #   icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+     # - title: "Günebakan Houses"
+     #   desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+     #   icon: fas fa-laptop
+     # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+     #   desc: "Your description here, full **Markdown** support"
+     #   icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
@@ -175,20 +175,20 @@ tr: &DEFAULT_TR
     button: Daha Fazlası
     buttonlink: "#services"
 
-  services:
-    title: "Projelerimiz"
-    text: ""
-    section: services
-    list:
-      - title: "E-Ticaret"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #fontawesome.com/icons adresinden daha fazlasını bulabilirsiniz
-      - title: "Günebakan Evler"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Buraya açıklamanızı yazın, tam **Markdown** desteği"
-        icon: fab fa-markdown
+ # services:
+   # title: "Projelerimiz"
+   # text: ""
+   # section: services
+   # list:
+     # - title: "E-Ticaret"
+       # desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+       # icon: fas fa-shopping-cart #fontawesome.com/icons adresinden daha fazlasını bulabilirsiniz
+     # - title: "Günebakan Evler"
+       # desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+       # icon: fas fa-laptop
+     # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+       # desc: "Buraya açıklamanızı yazın, tam **Markdown** desteği"
+       # icon: fab fa-markdown
 
   portfolio:
     title: "Portföy"
