@@ -306,3 +306,5 @@ tr: &DEFAULT_TR
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
+tr-TR:
+  <<: *DEFAULT_TR
