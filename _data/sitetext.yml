@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Shape the future.
     text: 
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#portfolio"
 
   # services:
    # title: "Our Projects"
@@ -173,8 +173,7 @@ tr: &DEFAULT_TR
     title: Geleceği şekillendir.
     text: 
     button: Daha Fazlası
-    buttonlink: "#services"
-
+    buttonlink: "#portfolio"
  # services:
    # title: "Projelerimiz"
    # text: ""

@@ -1,6 +1,6 @@
 ---
 title: Günebakan Evler
-subtitle:  
+subtitle:  Geleceğin Evleri
 image: assets/img/portfolio/01-full.jpg
 alt: Soru işareti
 
