@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   nav:
    # - title: "Our Projects"
      # section: services
-    - title: "Portfolio"
+    - title: "Our Projects"
       section: portfolio
     - title: "About"
       section: about
@@ -39,7 +39,7 @@ tr: &DEFAULT_TR
   nav:
    # - title: "Projelerimiz"
      # section: services
-    - title: "Portföy"
+    - title: "Projelerimiz"
       section: portfolio
     - title: "Hakkımızda"
       section: about

@@ -32,8 +32,8 @@ en: &DEFAULT_EN
      #   icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Our Projects"
+    text: "These are the projects that we are currently working on."
     section: portfolio
     closebutton: "Close Project"
 
@@ -191,8 +191,8 @@ tr: &DEFAULT_TR
        # icon: fab fa-markdown
 
   portfolio:
-    title: "Portföy"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Projelerimiz"
+    text: "Şuanda üzerinde çalıştığımız projelerimiz."
     section: portfolio
     closebutton: "Projeyi Kapat"
 
