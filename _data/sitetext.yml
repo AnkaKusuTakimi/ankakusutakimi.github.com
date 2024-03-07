@@ -227,7 +227,7 @@ tr: &DEFAULT_TR
   about:
     title: "Hakkımızda"
     text: "Biz Kimiz?"
-    body: "./about.md"
+    body: ./about.md
     section: about
 
   clients:
