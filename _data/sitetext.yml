@@ -180,57 +180,55 @@ tr: &DEFAULT_TR
     text: ""
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "E-Ticaret"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-shopping-cart #fontawesome.com/icons adresinden daha fazlasını bulabilirsiniz
       - title: "Günebakan Evler"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Buraya açıklamanızı yazın, tam **Markdown** desteği"
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
+    title: "Portföy"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Projeyi Kapat"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Zaman Çizelgesi"
+    text: "Lorem ipsum zaman çizelgesi"
     section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
+    etkinlikler:
+      - title: "Alçakgönüllü Başlangıçlarımız"
         year: "2009-2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
+      - title: "Bir Ajans Doğuyor"
+        year: "Mart 2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
+      - title: "Jekyll Teması Oluşturuldu"
         year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "Ravi Riley, bir Bootstrap tabanlı teması olan Agency'yi bir Jekyll temasına dönüştürdü. Jekyll teması bir Ruby gemi olarak veya uzaktan yüklenebilir. Daha fazla bilgi için belgelendirmeyi ziyaret edin."
         image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
+        alt: resim alternatif metni
+      - title: "Başlık"
         year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "Buraya açıklamanızı yazın, **Markdown** tam olarak desteklenir."
         image: assets/img/timeline/4.jpg
         alt:
-        # you can enforce the alignment
+        # hizalama zorunlu
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Hikayemizin <br> Bir Parçası Ol!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Hakkımızda"
+    text: "bizim hikayemiz"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** desteklenir."
     section: about
 
   clients:
@@ -252,13 +250,13 @@ tr: &DEFAULT_TR
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "HARİKA TAKIMIMIZ"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** desteklenir.
     section: team
     people:
       - name: "Kay Garland"
-        role: "Lead Designer"
+        role: "Baş Tasarımcı"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -268,7 +266,7 @@ tr: &DEFAULT_TR
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Larry Parker"
-        role: "Lead Marketer"
+        role: "Baş Pazarlamacı"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -278,7 +276,7 @@ tr: &DEFAULT_TR
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Diana Perterson"
-        role: "Lead Developer"
+        role: "Baş Geliştirici"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -289,38 +287,22 @@ tr: &DEFAULT_TR
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Bize Ulaşın"
+    text: "Lorem ipsum veya 123456789'u arayın"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    name: "Ad*"
+    name-validation: "Lütfen adınızı girin."
+    email: "E-posta*"
+    email-validation: "Lütfen e-posta adresinizi girin."
+    phone: "Telefon Numarası"
+    phone-validation: "Lütfen telefon numaranızı girin."
+    message: "Mesaj*"
+    message-validation: "Lütfen bir mesaj girin."
+    subject: "İletişim Formu Gönderimi"
+    submit: "Mesaj Gönder"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Gizlilik Politikası"
     social:
       - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
+        icon: "fab fa-twitter
