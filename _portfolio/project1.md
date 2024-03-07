@@ -1,8 +1,8 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Günebakan Evler
+subtitle:  
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: Soru işareti
 
 caption:
   title: Threads
