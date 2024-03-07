@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Our Projects"
       section: services
     - title: "Portfolio"
       section: portfolio
@@ -34,25 +34,24 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Spanish
-# -------
-es: &DEFAULT_ES
+
+#Turkish (default)
+# ----------------
+tr: &DEFAULT_TR
   nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Sobre Nosotros"
-      section: nosotros
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
+    - title: "Projelerimiz"
+      section: services
+    - title: "Portföy"
+      section: portfolio
+    - title: "Hakkımızda"
+      section: about
+    - title: "Zaman Çizelgesi"
+      section: timeline
+    - title: "Takım"
+      section: team
+    - title: "İletişim"
+      section: contact
+    - title: "Tema Kaynağı"
       url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+tr-TR:
+  <<: *DEFAULT_TR
