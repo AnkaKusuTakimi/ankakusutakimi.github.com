@@ -1,13 +1,13 @@
 ---
 title: Günebakan Evler
 subtitle:  Geleceğin Evleri
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/question.svg
 alt: Soru işareti
 
 caption:
   title: Günebakan Evler
   subtitle: Technology
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/question.svg
 ---
 Work In Progress...
 
