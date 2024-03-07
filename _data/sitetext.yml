@@ -226,8 +226,8 @@ tr: &DEFAULT_TR
 
   about:
     title: "Hakkımızda"
-    text: "bizim hikayemiz"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** desteklenir."
+    text: "Biz Kimiz?"
+    body: "aa"
     section: about
 
   clients:
