@@ -7,7 +7,7 @@ alt: Mevcut değil.
 caption:
   title: Günebakan Evler
   subtitle: Teknoloji
-  thumbnail: assets/img/portfolio/
+  thumbnail: assets/img/portfolio/wip.svg
 ---
 
 
