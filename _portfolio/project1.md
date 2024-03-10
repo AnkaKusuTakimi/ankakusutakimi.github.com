@@ -1,18 +1,18 @@
 ---
 title: Günebakan Evler
-subtitle:  Geleceğin Evleri
-image: assets/img/portfolio/question.svg
-alt: Soru işareti
+subtitle:  Geleceğin evlerini tasarlıyoruz.
+image: assets/img/portfolio/wip.svg
+alt: Mevcut değil.
 
 caption:
   title: Günebakan Evler
-  subtitle: Technology
-  thumbnail: assets/img/portfolio/question.svg
+  subtitle: Teknoloji
+  thumbnail: assets/img/portfolio/
 ---
-Work In Progress...
+
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: 20 Şubat 2024
+- Client: Teknofest
+- Category: Teknoloji
 
